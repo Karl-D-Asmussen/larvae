@@ -1,0 +1,131 @@
+In homeroom computer class I had been given free reign. My self-taught computer skills already
+supassed anything Ms. Nott could teach me, so she let me do whatever I wished so long as I handed in
+the assignments.
+
+We had been tasked with creating a calculator app in BASIC --- with a bit of twiddling, I had
+made a full scientfic calculator, using arbitrary precision numbers, and
+with the ability to assign names to values for alter use, almost
+making it a small programming language. It also included SI units and a couple of physical constants.
+The parser was a hack, but the code was readable, well-commented, and easy to grasp.
+
+Satisfied with my efforts, I took to browsing PhO.
+
+The wiki yielded some information about the Undersiders: a relatively recent gang, focusing on
+well-planned heists. Their members... Tattletale's article was a stub --- no info. Grue's was
+sparse, but listed his power as 'darkness generation' --- whatever that meant. Regent didn't
+even have a page.
+
+Bitch was for some reason listed as Hellhound. She had a long biography, and apparently
+no secret identity. She had triggered at age twelve, violently and obviously, in Maine. That
+was five years ago. For five years she had a vagrant fugitive from the law, using
+only her monster dogs to evade capture. Some feat.
+
+On the discussion boards, I navigated to the news section and found the main threads about
+Lung's capture, and Shadow Stalker's resignation.
+
+Tonnes of baseless speculation about the identity of the elusive independent hero --- to be expected.
+
+What caught my eye was in the other thread: someone cited a PRT rumor that Shadow Stalker had
+in fact been a probationary Ward, and had comitted a crime that would net jail time.
+
+Even adjusting for the 'rumor', the unreliability of the rumormonger's past account activity,
+the enormous favor of the null hypothesis --- coincidences did in fact happen; I had a notion.
+
+Hypothesis: Sophia Hess was Shadow Stalker.
+
+It was as spectacularly unlikely as any "person X is the civilian identity of cape Y" hypothesis,
+but the more I thought, the more evidence popped up.
+
+There was a Winslow Ward --- in that way, it wasn't impossible.
+
+Winslow's management was 'corrupt' --- for lack of a better term --- enough to excuse otherwise
+unacceptable behavior if it meant keeping the prestige of the Winslow Ward. It fit my personality
+profile of Blackwell. She wouldn't do it consciously, but there would be a strong bias.
+
+I went over confirmed sightings of Shadow Stalker during school hours and referenced it with
+my memory --- sure enough, Sophia was never present when Shadow Stalker was seen out and about.
+Again, not strong evidence.
+
+Finding videos of Shadow Stalker, she had the same height build as Sophia, and they moved in similar
+ways, even if Shadow Stalker put on a phantomime, I identified body language tells. Further, to my
+ear, their voices matched.
+
+There was one more thing I could do, but it warranted a call to the police station, and I didn't have
+a phone. I excused myself and headed for the principal's office.
+
+----
+
+"Mrs. Hebert, what can I do for you?" Blackwell's secretary asked me. A friendly older woman, who
+acted as proxy for most student requests to the principal's office.
+
+"I'd like to make a phone call," I said. "It concerns the case last week where Sophia assaulted me
+during detention."
+
+Her eyes widened a little.
+
+"Could you find the case file?" I asked. "I need to call one of the police officers in question, regarding
+the legal case --- I just have a quick question about the proceedings of his investigation."
+
+She got up from her chair. "Should I fetch the principal? Perhaps we should contact your parents?"
+
+I shook my head. "It's nothing serious, I promise." I put on my best display of innocence.
+It was very convincing.
+
+"I'm not sure---" she said.
+
+I looked down and away. "Please? Blackwell--- She would try to obstruct justice. I know it sounds
+weird, but I've been costing the shcool a lot of money in settlements --- you heard about the locker
+incident?"
+
+The secretary nodded.
+
+I shuddered. "My Dad sued --- it was gross negligence. We didn't have money to hire lawyers, so
+we took the settlement.
+
+"Blackwell? She doesn't want justice, she doesn't want the school to be a better place. She wants
+prestige and government funds."
+
+It was a tidy little piece of narrative. I was an underdog, fighting for truth, justice and the
+American Way, Blackwell was a corrupt government official.
+
+"If the principal finds out, she might take it as a sign of dissent. I could lose my job," she replied.
+
+A perfectly reasonable objection.
+
+"She won't, as I said, it's a completely harmless question."
+
+Grudgingly, she went along with it and fetched the case file.
+
+----
+
+I called the police station, and got through to one of the two cops that had responded on Friday.
+
+"This is Officer Marcus, who am I speaking to?"
+
+I didn't know who that was --- the heavy set or the lean one of them.
+
+"Hey, I'm Taylor Hebert," I said. "I was the victim of an assault from a
+fellow student on Friday --- Winslow High?"
+
+"Ah, yeah, of course. What can I do for you?" 
+
+"I was wondering, you are investigating the case?" I asked.
+
+"Well yeah, but... Look, kid, my investigation was terminated. It's out of our hands now. The--- Feds,
+took over. We handed over all the evidence and your statement to them."
+
+The hesitation in his voice was a dead giveaway. No way the bullying crossed state lines, and the PRT
+was technically 'feds.' Police officers were instructed not to disclose when the PRT got involved, since
+it compromised the civilian identity of capes if they did.
+
+"Oh," I said, with palpable disappointment. "What bureau?"
+
+"The DEA; apparently some drugs were involved."
+
+A flat lie. It was the PRT.
+
+"OK... That's fine, I guess. As long as justice prevails."
+
+"Don't worry, kid. The feds aren't all bad," he replied.
+
+Yes. Yes they were. I hung up.
