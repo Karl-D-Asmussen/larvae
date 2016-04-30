@@ -4,7 +4,7 @@ the assignments.
 
 We had been tasked with creating a calculator app in BASIC --- with a bit of twiddling, I had
 made a full scientfic calculator, using arbitrary precision numbers, and
-with the ability to assign names to values for alter use, almost
+with the ability to assign names to values for later use, almost
 making it a small programming language. It also included SI units and a couple of physical constants.
 The parser was a hack, but the code was readable, well-commented, and easy to grasp.
 

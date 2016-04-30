@@ -5,39 +5,36 @@ had just dumped into my lap. Lisa hooked me up with a contact, and I spent
 an hour with a borrowed laptop, texting back and forth with some acquisitions
 liasion in the employ of our shadowy benefactor.
 
-My old outfit, meticulously put together for personal protection, had the right
-idea, but with money I could get somehting that would save my life. I requisitioned
-an army-grade ballistics vest --- stab proof, fragmentation proof, and with genuinely
-bullet-stopping steel plate inserts.
+The first thing I got, was a deal: I would over-order, then send back what I didn't
+need. With only two days to prepare, I wouldn't have time to iterate.
 
-Adding to that, every extra protection --- arm protectors, leg protectors, neck protector, shoulder pads,
+My old outfit, meticulously put together for personal protection, had the right
+idea, but with money I could get somehting that would save my life.
+
+I requisitioned an army-grade ballistics vest --- stab proof, fragmentation proof, and with genuinely
+bullet-stopping plate inserts and every extra protection
+available, arm protectors, leg protectors, neck protector, shoulder pads,
 hip guards, daiper-shaped pelvic protector, steel toed boots with puncture-proof soles,
 padded fingerless protective gloves made for punching. Most importantly,
-a real kevlar helmet capable of stopping a bullet.
+a real kevlar helmet capable of stopping a bullet. Full riot gear.
+I found a convenient face-guard helmet attachment, which would make it easy to conceal my identity.
 
-For my new mask, I found a convenient face-guard helmet attachment.
-A balaklava underneath would suffice to fully conceal my identity.
+Then, on second thought, perhaps heavy armor wouldn't be my style. I ordered an extra helmet,
+a lighter balistics vest without the plate inserts. It wouldn't stop a rifle bullet, but
+it would stop pretty much anything else.
 
-I asked for it in black, and spray paint to modify it.
+But armor couldn't be worn against bare skin, and I didn't have much in the way of
+clothes that could be worn under body armor. That led me to a selection of battledress uniforms,
+coveralls, and catsuits.
 
-And holsters. Lots of holsters.
+And on the third hand, I also needed a non-combat suit. My contact was happy to order things
+from regular online stores too. A paintball mask, a shirt with striped sleeves, cargo pants,
 
-As for weapons, I ordered my arsenal of melee and nonlethal weapons on the spot: extendable batons with
-twist-locks to enable stabbing, long as my arm; two large combat knives; a powerful
-stun gun, a taser gun, and a bear-repellant pepper spray. That was the easy part.
+And holsters. Lots of holsters and belt puches and belts and bandoliers. Gas masks of
+various shapes and sizes.
 
-The hard part was deciding what was going in my grenade bandolier --- it would be cumbersome
-to carry more than one. Eventually I ordered a few smoke and flash grenades,
-
-Then I realized I needed a nice and mobile place to keep my arsenal, and ordered an aluminum
-transport case on wheels.
-
-Firearms were more of a hassle, given that my gun knowledge was zilch. I spent a lot of time
-reading reviews, watching videos... I would much prefer to have tried them out at a shooting range.
-
-There was a lot of consideration to be put into what I wanted out of firearms, and what I was
-willing to lug around --- weight was begining to look like an issue. I was still within normal range
-for fifteen year old girls: one-fourty-three pounds.
+Then I realized I needed a nice and mobile place to keep my arsenal, and ordered aluminum
+transport cases on wheels.
 
 There were more things I needed still; things specific to robbing banks, things that had
 uses outside of violence. I called dad to tell him I'd be home late.
@@ -74,7 +71,7 @@ I let my eyebrows rise. "And you would rather stay on message than die?"
 
 Lisa interrupted him. "Taylor, let me disabuse you of several notions. Survival is
 dependent on message. If we send the message that we are hard-core, our enemies won't
-hold back as much. And that will get us killed."
+hold back as much. And that will get us killed. No heavy-hitters, remember?"
 
 I mulled on this.
 
@@ -94,36 +91,48 @@ teeth."
 
 ----
 
+I ordered an arsenal of melee and nonlethal weapons on the spot: extendable batons of every
+variety and size; a wide selection of combat knives; stun guns in every size between pocket,
+brick sized, and baton; taser guns; and pepper sprays from tiny to bear-repellants. That was the easy part.
+
+Another easy part was what to put in my grenade bandolier --- it would be cumbersome
+to carry more than one. Smoke grenades, flash bangs, teargas.
+
 Forming an informed opinion about firearms too all evening doing nothing but researching.
+Revolvers, semi-automatics, submachine guns, assault rifles, sniper rifles, shotguns. Handgun calibers,
+rifle calibers, buckshot, anti-materiel calibers. Barrel lengths, muzzle velocity, accuracy,
+penentration, recoil, stopping power. Popular models, obscure models, popular munitions, obscure munitions.
 
-The difference between a large caliber and a small caliber was how many bullets you
-could carry. With a bit of additional introspection --- I'd put 'shoot self to 
-inspect damages' on my to-do list --- it was fairly obvious that the only reliable
-'stopping power' of a firearm was best achieved with high-energy impacts.
+Essentially, fast bullets were better than slow bullets, since kinetic energy increases with
+the square of the speed. Light cartridges were better than heavy ones, since bullets were heavy
+and more bullets meant not running out of ammo. Bullpub rifle layout was superior, since it meant
+longer barrels in shorter weapons. Modern guns were better than old models, since it meant better
+materials and the possibility of Tinkertech-derived functionality. Parallax-free optical sights were
+strictly superior to iron-sights.
 
-The only thing you really needed was twenty inches of tissue penetration and high
-kinetic energy. A smaller bullet meant you could carry more for the same weight,
-and also a lighter projectile was often faster: kinetic energy grew with the square
-of the velocity, but in direct proportional to the weight.
+After some deliberation, and asking my contact to put me in touch with some mercenary for some
+advice, I settled first on calibers. NATO, for all it still had relevance, had spearheaded standardization
+of ammunition, as well as development of new types. They were all in metric, obviously converted from imperial.
 
-A second concern about light bullets, was recoil. High calibers packed a punch.
-Low recoil meant less chance of injury, and more accuracy since it was easier to
-stay on target.
+This was also when I found my cape name. A quick search verified it: no one across the world had in fact
+taken the name Ms. Para Bellum. Preparing for war. It was fitting.
 
-It was with these ideas in mind that I settled on the point-twenty-two caliber
-NATO cartridge. Designed in the nineties to replace the nine millimetre, to defeat
-innovations in body armor. It had all the criterions I was looking for.
+I ordered sub-machine guns, pistols, an assault rifle,
+a sniper-rifle, and ammo of every variety. I ordered two shotguns, one short
+and one long, and riot control ammo --- beanbags and rubber bullets.
 
-It had been a moderate success, and spawned some
-weapons innovation that had appeal.
+When I felt satisfied, I started ordering tools --- from the stuff one might find in an electrician's
+toolbox, over locksmith, to things like dentist mirrors for looking around corners. Gaffer tape, fishing
+line, paracord, ball bearings, zip ties, silicone lubricant, and superglue.
 
-There was a particularly striking submachine gun that I liked quite a lot: the
-Personal Defence System Ninety --- designed with a number of innovations, notably a
-very easy reload process and large magazines laying flush to the length of the weapon,
-with the firing mechanism behind the trigger for a longer barrel in the same space.
-There was also an accompanying pistol that chambered the same round. Both were
-all polymer plastics and ease of maintenance. Just the gun for an absolute beginner.
+The last thing I texted to my contact, just before midnight
+--- I'd gotten neither name nor gender; just a phone number and a string
+of polite texts back and forth --- was:
 
-An obvious issue was that guns were, apparently, loud. Really amazingly, astoundingly loud. Firing one repeatedly
-without earprotection was almost sure to result in long term hearing loss --- for anyone other than me.
-That meant I would have to carry suppressors also.
+> ~~~
+> that will be all
+> sorry for having so much
+> thanks a lot
+> ~~~
+
+No sense in not making friends.
