@@ -1,8 +1,98 @@
-While I was busy with arming myself, I wasn't so busy that I did not notice what
-the others were doing to prepare. Lisa in particular--- seeing her work
-gave me a healthy amount of respect.
+While I kept busy arming myself and thinking about what was going to go down on Thursday,
+I wasn't so busy that I did not notice what the others were doing to prepare.
+Lisa in particular--- seeing her work gave me a healthy amount of respect.
 
-I was smart, I spotted things other people didn't, my conclusions were (usually) solid.
+I was smart, I spotted things other people didn't, my conclusions were usually solid.
 
-Lisa pulled facts out of thin ass.
+Lisa pulled facts out of thin air. There was no other way to put it.
 
+On Tuesday, as we discussed the ins and outs of the operation, she had produced a map
+of the bank from a sattelite photograph --- drawing on top of it in a paint program. From
+a single picture of the bank manager at his desk, she had marked where the manager desk was.
+Then, she had marked the location of all security cameras in the building, then the teller counters,
+the vault, the vault doors, the enclosed room that held the safety-deposit boxes...
+
+I helped Brian pack up the mats, and Alec emerged from his room looking like a zombie. I wondered
+what he would have said if he had been witness to my --- let's face it, it was a pick-up line.
+
+To give Brian some space I went into the kitchen to watch Lisa work. She was doing somehting involved
+on a laptop --- if I were to hazard a guess, some form of hacking. "What are you doing?" I asked and pulled
+up a chair.
+
+She looked at me for a beat. "You're not a computer illiterate," she stated.
+
+She explained how she was executing a 'phishing' operation: she had scraped the bank web site
+for e-mails and deduced the private, internal ones. From there and an employee listing she had
+picked the most likely targets --- the most gullible employees.
+
+She had figured out the software they were using --- office packages and the like --- the versions
+of these, and the security vulnerabilities in them. Then with the aid of freely available pre-made
+hacking tools, she had made a virus embedded in an official-looking document, which she was now writing.
+
+Once it was done, she would mail it to the gullible smucks under a spoofed e-mail address, they would open it,
+and it would activate, giving Lisa a controllable proxy on their machines which could very quickly gain
+administrative privileges.
+
+"My power lets me deduce most things, but sometimes it's less strenuous to find out stuff the regular way," she
+explained. "If I wanted to, I could just figure out their passwords."
+
+Strenuous? "Is there a limit to how much you can use your power?" I asked.
+
+"Yeah, and I get migraines if I over-use," she replied, not taking her eyes off the screen.
+
+I nodded. "You're pretty good at this."
+
+She smiled. Lisa was easy to please --- she was a little more narcisistic than what most would deem
+virtuous. Every time you complimented her skills or expressed disbelief in her abilities, she glowed
+a little bit.
+
+"Would it surprise you to know that I've also thoroughly compromized the PRT?" she asked me.
+
+When you thought about it, it was not at all surprising that she had done it. Perhaps it was
+impressive that she had managed it. "A little," I said, purposefully understating.
+
+"By the by, Lung? He's pretty much in a vegetative state as of today --- I've been keeping tabs on his development,"
+she said. "It's better than monday, when he was in a deep coma."
+
+That was startling. Didn't Lung have a healing factor.
+
+"He does," Lisa said, answering my unspoken question verbatim. "But it didn't protect him from the massive
+aneurism you gave him, and I guess the PRT boys thought so too, because they didn't MRI his head before his
+breathing stopped.
+
+"My guess? It's gonna be a good while before Lung even starts speaking, walking, or feeding himself again.
+So congratulations to you, Taylor. You've done what no-one else has managed."
+
+I thought on that and went to check the fridge for an after-workout snack. It wasn't exactly what I had
+in mind for my so-far only act of heroism.
+
+"Hey," Lisa said. "Lung was positively a horrible human being. He deserves whatever is coming to him."
+
+"I'm just worried that it'll become an MO," I said, sitting down again with a glass of milk.
+"Resolving to excessive force."
+
+Lisa took a second to look me over. "Christ, you're a good person --- it's painful to watch."
+
+"Correct me if I'm wrong," I said, "but isn't it the point that nobody gets hurt tomorrow?"
+
+Lisa reached out and poked me on the forehead. "You're smart, Taylor. You brought
+a fucking arsenal of non-lethal weapons --- if you step up on full riot gear with a pistol on
+your hip, nobody is gonna dare do anything, you know?
+
+"The way you put your costume together --- admittedly you haven't show it off, but still ---
+basically screams 'don't mess with me, I am not afraid to hurt you'
+
+"Why doesn't it occur to you to take into consideration the sheer aura of intimidation you
+can project when you're armed to the teeth? It basically screams 'combat Thinker-Brute.'
+
+"Quit moping and think."
+
+She had a point. I was neglecting to take a lot of things into account --- another... Blind-spot?
+My empathy was maturing rather nicely, but perhaps my understanding of human interaction was wonky.
+
+No, not perhaps. Definitely.
+
+"I think I need to do some research," I said.
+
+On Lisa's face, I caught an imperceptible hint of confusion, then suspicion. "Don't worry, I still
+feel like I'm a talentless hack some days."
