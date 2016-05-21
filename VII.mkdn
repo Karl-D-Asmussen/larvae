@@ -1,9 +1,9 @@
 In homeroom computer class I had been given free reign. My self-taught computer skills already
-supassed anything Ms. Nott could teach me, so she let me do whatever I wished so long as I handed in
+surpassed anything Ms. Nott could teach me, so she let me do whatever I wished so long as I handed in
 the assignments.
 
 We had been tasked with creating a calculator app in BASIC --- with a bit of twiddling, I had
-made a full scientfic calculator, using arbitrary precision numbers, and
+made a full scientific calculator, using arbitrary precision numbers, and
 with the ability to assign names to values for later use, almost
 making it a small programming language. It also included SI units and a couple of physical constants.
 The parser was a hack, but the code was readable, well-commented, and easy to grasp.
@@ -26,7 +26,7 @@ Lung's capture, and Shadow Stalker's resignation.
 Tonnes of baseless speculation about the identity of the elusive independent hero --- to be expected.
 
 What caught my eye was in the other thread: someone cited a PRT rumor that Shadow Stalker had
-in fact been a probationary Ward, and had comitted a crime that would net jail time.
+in fact been a probationary Ward, and had committed a crime that would net jail time.
 
 Even adjusting for the 'rumor', the unreliability of the rumormonger's past account activity,
 the enormous favor of the null hypothesis --- coincidences did in fact happen; I had a notion.
@@ -47,7 +47,7 @@ my memory --- sure enough, Sophia was never present when Shadow Stalker was seen
 Again, not strong evidence.
 
 Finding videos of Shadow Stalker, she had the same height build as Sophia, and they moved in similar
-ways, even if Shadow Stalker put on a phantomime, I identified body language tells. Further, to my
+ways, even if Shadow Stalker put on a pantomime, I identified body language tells. Further, to my
 ear, their voices matched.
 
 There was one more thing I could do, but it warranted a call to the police station, and I didn't have
@@ -74,7 +74,7 @@ It was very convincing.
 "I'm not sure---" she said.
 
 I looked down and away. "Please? Blackwell--- She would try to obstruct justice. I know it sounds
-weird, but I've been costing the shcool a lot of money in settlements --- you heard about the locker
+weird, but I've been costing the school a lot of money in settlements --- you heard about the locker
 incident?"
 
 The secretary nodded.
