@@ -7,7 +7,7 @@ I was smart, I spotted things other people didn't, my conclusions were usually s
 Lisa pulled facts out of thin air. There was no other way to put it.
 
 On Tuesday, as we discussed the ins and outs of the operation, she had produced a map
-of the bank from a sattelite photograph --- drawing on top of it in a paint program. From
+of the bank from an aerial photograph --- drawing on top of it in a paint program. From
 a single picture of the bank manager at his desk, she had marked where the manager desk was.
 Then, she had marked the location of all security cameras in the building, then the teller counters,
 the vault, the vault doors, the enclosed room that held the safety-deposit boxes...
@@ -15,7 +15,7 @@ the vault, the vault doors, the enclosed room that held the safety-deposit boxes
 I helped Brian pack up the mats, and Alec emerged from his room looking like a zombie. I wondered
 what he would have said if he had been witness to my --- let's face it, it was a pick-up line.
 
-To give Brian some space I went into the kitchen to watch Lisa work. She was doing somehting involved
+To give Brian some space I went into the kitchen to watch Lisa work. She was doing something involved
 on a laptop --- if I were to hazard a guess, some form of hacking. "What are you doing?" I asked and pulled
 up a chair.
 
@@ -29,7 +29,7 @@ She had figured out the software they were using --- office packages and the lik
 of these, and the security vulnerabilities in them. Then with the aid of freely available pre-made
 hacking tools, she had made a virus embedded in an official-looking document, which she was now writing.
 
-Once it was done, she would mail it to the gullible smucks under a spoofed e-mail address, they would open it,
+Once it was done, she would mail it to the gullible schmucks under a spoofed e-mail address, they would open it,
 and it would activate, giving Lisa a controllable proxy on their machines which could very quickly gain
 administrative privileges.
 
@@ -42,22 +42,22 @@ Strenuous? "Is there a limit to how much you can use your power?" I asked.
 
 I nodded. "You're pretty good at this."
 
-She smiled. Lisa was easy to please --- she was a little more narcisistic than what most would deem
+She smiled. Lisa was easy to please --- she was a little more narcissistic than what most would deem
 virtuous. Every time you complimented her skills or expressed disbelief in her abilities, she glowed
 a little bit.
 
-"Would it surprise you to know that I've also thoroughly compromized the PRT?" she asked me.
+"Would it surprise you to know that I've also thoroughly compromised the PRT?" she asked me.
 
 When you thought about it, it was not at all surprising that she had done it. Perhaps it was
 impressive that she had managed it. "A little," I said, purposefully understating.
 
 "By the by, Lung? He's pretty much in a vegetative state as of today --- I've been keeping tabs on his development,"
-she said. "It's better than monday, when he was in a deep coma."
+she said. "It's better than Monday, when he was in a deep coma."
 
 That was startling. Didn't Lung have a healing factor.
 
 "He does," Lisa said, answering my unspoken question verbatim. "But it didn't protect him from the massive
-aneurism you gave him, and I guess the PRT boys thought so too, because they didn't MRI his head before his
+aneurysm you gave him, and I guess the PRT boys thought so too, because they didn't MRI his head before his
 breathing stopped.
 
 "My guess? It's gonna be a good while before Lung even starts speaking, walking, or feeding himself again.
