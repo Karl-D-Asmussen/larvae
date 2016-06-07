@@ -68,3 +68,6 @@ A Worm fanfic by MHD aka. Karl D. Asmussen.
 * TetYod
 * Kaf
 * AlefKaf
+* BetKaf
+* GimelKaf
+* DaletKaf
