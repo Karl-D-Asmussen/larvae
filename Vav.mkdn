@@ -1,7 +1,7 @@
 I was rudely awoken --- even though I didn't need sleep, it too nice to pass up when Brian was there to hold
 me --- by my phone. Lisa was calling.
 
-"Hello?" I said, already expunging the neurochemical sleepyness from my brain.
+"Hello?" I said, already expunging the neurochemical sleepiness from my brain.
 
 "Taylor, get your asses down here right now," she said in a hushed voice.
 
@@ -17,19 +17,23 @@ Brian stumbled out of the bedroom.
 
 "Drink water to wake quicker," I said.
 
-I was aleady in my clothes when the computer was ready to use. Internet proxy, browser, web mail.
+I was already in my clothes when the computer was ready to use. Internet proxy, browser, web mail.
 
 My eyes went wide. There, in my inbox, was a perfectly innocent message, with a CC-list of over five thousand
 addresses. The subject line was brief and informative:
 
+> ~~~
 > complete personal info of all Empire 88 capes
+> ~~~
 
 The message body was a dozen links to various peer-to-peer sharing services and download mirrors.
 That wasn't the worst bit. The worst bit was the final part of the message.
 
+> ~~~
 > --- Para Bellum & The Undersiders
+> ~~~
 
-And below it was a picture of myself in costume, and the others --- expertly maipulated. We had
+And below it was a picture of myself in costume, and the others --- expertly manipulated. We had
 never posed like that.
 
 It was a frame-job. It would take me half an hour to try and put an identity to the perpetrator, and I
@@ -43,9 +47,11 @@ nine-month absence of Purity and the birth date of her alter-ego's daughter.
 Kaiser was Max Anders, the CEO of Medhall. Everything was there. I summarized the situation to Brian,
 who went pale. I texted Lisa.
 
+> ~~~
 > you already know who's behind it. tell me.
+> ~~~
 
-The other half of the threads discussed Bellum. Correlations were drawn between my escalation of violence,
+The other half of the threads discussed Para Bellum. Correlations were drawn between my escalation of violence,
 widespread use of guns, intimidation methods and generally subtly breaking the "rules," and then this latest
 development.
 
@@ -67,21 +73,27 @@ explicit my plans of messing them up.
 
 My phone pinged.
 
+> ~~~
 > The Boss. I helped him compile a little of it. This is his way of firing us.
+> ~~~
 
 And then the pieces fell into place. The fact that I couldn't reach my contact, the convenient timing of it all
 --- coinciding with us claiming territory which made our location obvious, he had probably started some rumours too.
 I was an agitator, an agent of chaos, perverting the team towards heroism, escalating conflicts too
 fast and too hard, and now he was getting rid of me.
 
-> Who is he.
+> ~~~
+> tell me who he is.
+> ~~~
 
-Brian was dressed and almost ready to go when I recieved an answer.
+Brian was dressed and almost ready to go when I received an answer.
 
+> ~~~
 > Coil.
+> ~~~
 
 Single parahuman at the head of mercenary organization. A non-entity in my book up until now; I had
-pegged him for a Thinker or Tinker, and in any case a chessmaster. If he was bankrolling us, he had to
+pegged him for a Thinker or Tinker, and in any case a chess master. If he was bankrolling us, he had to
 have some kind of massive source of income, which probably meant Thinker --- Tinkers built stuff, which
 tended to be expensive; meanwhile, the Protectorate had to employ a whole division dedicated to
 preventing Thinkers from destroying the stock market.
@@ -90,21 +102,23 @@ My next conclusion was even worse: if he had the money to bankroll us, he had th
 capes as well. That made taking him down more complicated. My phone pinged again just as Brian locked the
 door behind us.
 
+> ~~~
 > The Loft is gone. Saved most of the cash. About 10k. We have about 100k in accounts.
+> ~~~
 
 And the evening went from bad to worse. If I was facing off against the Empire, it would have been
 nice to have some armor.
 
 "It's the Boss," I said to Brian. "He decided to screw us over."
 
-Brian stopped on the staircase and looked at me in disbeleif.
+Brian stopped on the staircase and looked at me in disbelief.
 
 "It's indirectly my fault, I think," I added. "My conduct has been reckless, and he most likely decide
 that we were a liability."
 
 The agony was apparent on his face. The Boss had been his chance at getting his
-sister out of the shitshow that was his family. Without lawyers and a shell company to
-provide wages and reccommendations, Brian stood with very little.
+sister out of the shit show that was his family. Without lawyers and a shell company to
+provide wages and recommendations, Brian stood with very little.
 
 "Fuck," he hissed.
 
