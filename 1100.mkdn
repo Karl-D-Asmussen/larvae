@@ -78,11 +78,36 @@ credit for terror attacks.
 I just needed to sew a costume. Lisa could help me make sure it was an impeccable reproduction. If Coil
 could photoshop us, I could pretend to be him on camera.
 
-My second purchase was cash. It quickly came to use in purchasing electronics and electronic components. I needed
-pagers and pre-paid cells to act as detonation mechanisms, I needed chemicals, I needed fertilizer, I needed
-a lot of things to build my bombs, and 'bombs.'
+My second purchase was cash. It quickly came to use in purchasing electronics, electronic components, plumbing,
+and household chemicals. I needed pagers and pre-paid cells to act as detonation
+mechanisms, I needed the ingredients, I needed fertilizer, I needed
+a lot of things to build bombs, and --- I suppose an accurate term would be 'sprayers.'
 
-My third purchase was a token amount of cryptocurrency, for black market activities.
+My third purchase was a moderate amount of cryptocurrency --- for purchasing illegal contraband in an
+untraceable manner.
 
+----
 
+We had a work bench in the basement.
 
+Armed with a cheap soldering iron, pre-printed circuit boards, and a multimeter, I began dismantling the
+cell-phones. The crux of turning one into a detonator, was to use the vibrator. A small DC electric motor,
+getting enough juice to power something interesting.
+
+Another device I spent some time building was a circuit that generate a random stream of bits. Upon completion
+--- a rather intricate thing, I'd pulled from a web page --- I found that I had no use of it.
+So that was an hour's work wasted. If I needed random data, it was much easier to query either my web-servers'
+built-in entropy sources, or those web-pages that provided true random numbers.
+
+And I didn't need a complex system to wire up the phones either.
+
+My initial idea was to have two phones per bomb, where texting one stopped the countdown, texting the other
+did nothing, and texting both restarted the countdown. This was entirely unneccesary; I could do it over e-mail,
+programattically.
+
+All I needed was to make a tampering-fail-deadly system for the phone detonators.
+ It wasn't a total loss to have purchased all the electronic components.
+
+With that initial hurdle out of the way --- I chastised myself for not thinking this far --- I began designing
+the sprayers. This was, of course, mostly a mental activity, so I used my hands for something worthwhile: sewing
+a black bodysuit with an intricate white snake motif.
