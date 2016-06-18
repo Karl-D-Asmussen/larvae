@@ -82,3 +82,10 @@ A Worm fanfic by MHD aka. Karl D. Asmussen.
 * 111
 * 1000
 * 1001
+* 1010
+* 1011
+* 1100
+* 1101
+* 1111
+* 10000
+
