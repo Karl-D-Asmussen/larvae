@@ -1,5 +1,5 @@
 Of course, the equipment we had available at my house was inadequate, not to mention
-tied to our civillian identities.
+tied to our civilian identities.
 
 We hunkered down with each our laptop, and started passively researching. Having access to Lisa's method
 wasn't useful for myself --- most of her research she did with her power in mind; and
@@ -31,7 +31,7 @@ I started compiling a list of Coil sightings to cross-reference against.
 We worked back and forth like that for an hour. I made lists of available facts,
 Lisa added to them, I cross-referenced them, eliminating the impossible. We only succeeded
 in accumulating more data --- at no point did our list of good suspects for Coil's civilian
-identitiy shrink.
+identity shrink.
 
 Our knowledge of his assets didn't go very far beyond the rudimentary. He did stock trading
 through a shell corporation in Mexico.
@@ -56,7 +56,7 @@ When we had hit a natural stopping point, we took off towards a seedy little ele
 "What do you girls need?" the clerk asked us.
 
 Lisa didn't answer --- she just started gathering equipment off the shelves. A stack of burnable DVDs,
-a pair of laptops, burner phones, sim cards.
+a pair of laptops, burner phones, SIM-cards.
 
 "We're going to break into the FBI's mainframe," I said, jokingly.
 
@@ -70,7 +70,7 @@ The clerk snickered. He was a twenty-something white guy, a little on the heavy 
 "Capture the Flag. You have to find a series of hashes and send
 them to the referee server for points."
 
-The clerk clearly wasn't very familiar with hacking. Lisa was. Therefore I was.
+The clerk clearly wasn't very familiar with hacking. Lisa was. Victor had been. Therefore I was.
 
 Lisa was wearing a yellow T-shirt with a lightning-bolt design, and a pleated skirt.
 I was in a very tight black T-shirt, with quite a low neck, and purposely leaning
@@ -96,6 +96,5 @@ We ended up getting a complementary extension chord anyway. 'Gays stick together
 
 "Thanks. Where do we set up?"
 
-"Little coffe shop chain I know. Fast Wi-Fi, the owner of
-the company is into kiddie porn, so I've blackmailed him into giving me a
-'premium membership' and not having security cameras. I only use it for hacking."
+"Little coffee shop chain I know. Fast Wi-Fi, the owner of
+the company is into kiddie porn, so I've blackmailed him a bit from time to time."
