@@ -45,14 +45,14 @@ Dad pursed his lips. "I'm not even gonna ask what you're planning to blackmail h
 
 ----
 
-My call was picked up. "Numberman speaking," a baritonne spoke in my ear.
+My call was picked up. "Numberman speaking," a baritone spoke in my ear.
 
 "Hi, I'm Para Bellum. I'm with the Undersiders," I said.
 
 "I know."
 
-That was a scary thing to say --- easily a fascetious comment, but I had a feeling this guy meant it.
-"Glad I don't have to authenticate myself, then. I need an untracable debit card tied to our expenses account,
+That was a scary thing to say --- easily a facetious comment, but I had a feeling this guy meant it.
+"Glad I don't have to authenticate myself, then. I need an untraceable debit card tied to our expenses account,
 to be destroyed soon after use."
 
 Truthfully, I could have used one of Lisa's, but I didn't want to risk her power telling her what I had brought.
@@ -63,13 +63,13 @@ A minute later, a text gave me a drop-off point.
 
 ----
 
-The drop point was a back alley. I recieved a text, and found the card under a trash container, exactly where
+The drop point was a back alley. I received a text, and found the card under a trash container, exactly where
 it should be. Efficient courier service, these people employed.
 
 ----
 
 For my first purchase, I brought month-long subscriptions to screens on several cloud server
-solitions for peanuts. Just sandboxed command lines on the open internet, but more than enough for me.
+solutions for peanuts. Just sandboxed command lines on the open Internet, but more than enough for me.
 
 I also created anonymous e-mail accounts on various servers. Those would be the channels through which
 Coil could avoid being outed. They would also serve as distribution points for fake videos of him taking
@@ -102,8 +102,8 @@ built-in entropy sources, or those web-pages that provided true random numbers.
 And I didn't need a complex system to wire up the phones either.
 
 My initial idea was to have two phones per bomb, where texting one stopped the countdown, texting the other
-did nothing, and texting both restarted the countdown. This was entirely unneccesary; I could do it over e-mail,
-programattically.
+did nothing, and texting both restarted the countdown. This was entirely unnecessary; I could do it over e-mail,
+programmatically.
 
 All I needed was to make a tampering-fail-deadly system for the phone detonators.
 It wasn't a total loss to have purchased all the electronic components.
