@@ -4,7 +4,7 @@ For blackmail.
 
 I also left her with a polite and friendly request to get some damn sleep tonight --- no more fix-ups
 from me. She and I both knew they weren't a replacement for sleep, but we also agreed that
-spending a third of your time unconsious sucked.
+spending a third of your time unconscious sucked.
 
 The bus ride back was as uneventful as the one out. I spent it tending to my power and reading the
 dossier.
@@ -23,10 +23,10 @@ groceries I had picked up. "I'm making breakfast."
 
 ----
 
-Aisha could be coaxed out of bed with the promise of bacon, egss and fresh coffe.
+Aisha could be coaxed out of bed with the promise of bacon, eggs and fresh coffee.
 
 'Bacon and eggs' were perhaps a little misleading. The scrambled eggs was the gourmet
-variety with sour cream and chives, the bacon was lean applewood smoked, and there was
+variety with sour cream and chives, the bacon was lean apple wood smoked, and there was
 portobello mushrooms and tomatoes as a side. I'd brought freshly baked bread, too.
 
 "Oh my god," she said after the first bite. "This is the best breakfast I've ever had."
@@ -39,26 +39,26 @@ and me never getting to eat this again."
 ----
 
 I kissed Brian goodbye, and went out to search for Rachel. Out on the outer docks where she had
-her kennel, and where she spent most of her free time. On the way there, I recieved a call from Lisa.
+her kennel, and where she spent most of her free time. On the way there, I received a call from Lisa.
 
 "I know what Dinah Alcott's power is," she said.
 
 I didn't reply; I just waited for her to elaborate.
 
 "I managed to break into the internal systems of his main base, and extract some footage. His
-defences kicked me out pretty quickly, but I managed to get shell and privilege escalation and
+defenses kicked me out pretty quickly, but I managed to get shell and privilege escalation and
 download some files. Mostly administrative documents and logs, but also some security footage.
 
 "Good chance Coil knows it was me, so I'll have to go underground. I've covered my tracks
 and air-gapped my machines, currently burning to optical disks---"
 
-"Lisa," I said. "I'm familiar with your procedures. Color your hair black --- it'll suit you."
+"Lisa," I said. "I'm familiar with your procedures."
 
-She would dismantle the hard drives and take a blowtorch to the platters, smah the computers
-with a sledge hammer, color and cut her hair, pack up, wipe the apartment down for
-prints, then leave.
+She would dismantle the hard drives and take a blowtorch to the platters, smash the computers
+with a sledge hammer, pack up, wipe the apartment down for
+prints, then leave in disguise of some kind.
 
-"Dinah can estimate the likelihood of future events, but not a whole lot. Coil is givin her
+"Dinah can estimate the likelihood of future events, but not a whole lot. Coil is giving her
 drugs to manage the headaches and truth serum to make sure she answers correctly."
 
 My mental trigger finger twitched. Outwards there was no reaction. "You can come live at
@@ -77,7 +77,7 @@ any foreign body within me. As an experiment, earlier, I had picked up a flu vir
 it's DNA. Testing it out on some of my own cells prepared for the purpose, I found a nice little game
 of 'engineer a horrible bioweapon disease.'
 
-My current 'high score' was a hemorragic fever not unlike Ebola, only more virulent as I was pretty
+My current 'high score' was a hemorrhagic fever not unlike Ebola, only more virulent as I was pretty
 sure it made the lungs break down and the infected exhale the virus. It was a bit more friendly than
 Ebola, in that it had almost no incubation time. An outbreak could be easily quarantined.
 
@@ -94,4 +94,4 @@ I assembled a disposable smartphone, and shot off an e-mail to Coil.
 > PB
 > ~~~
 
-Then I shut the phone down and took out the sim card and battery.
+Then I shut the phone down and took out the SIM-card and battery.
