@@ -22,11 +22,11 @@ top tier Protectorate and Guild.
 
 "Yeah, fortunately Faultline's running a strict no-kill policy," Lisa said. "There's more."
 
-I paged, and found the Travelers. Nomads of unknown origin, four principal members. A guy that could
+I paged, and found the Travellers. Nomads of unknown origin, four principal members. A guy that could
 turn cars into bullets, a seemingly limitless shapeshifter, a girl who could summon miniature suns, and
 a teleporter specializing in annoyance. They were not averse to killing.
 
-"Oh god, that's even worse," I said. "What do you have on his electronic defenses? I'm thinking of writing
+"Oh god, that's even worse," I said. "What do you have on his electronic defences? I'm thinking of writing
 him a worm."
 
 "I already have a trojan in his system, but using it is risky --- his firewall is going to
@@ -99,7 +99,7 @@ could do it for me.
 
 "What are you thinking about?" Brian asked me.
 
-"Trinitrocellulose," I said. "Gun cotton. An explosive."
+"Trinitrocellulose," I said. "An explosive."
 
 "Hm. What of it?"
 
