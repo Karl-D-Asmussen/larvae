@@ -37,6 +37,7 @@ add $files.grep(/\A[01]+\.mkdn/).sort { |a, b| a.to_i(2) <=> b.to_i(2) }
 
 BEGIN {
 $files = Dir['*.mkdn']
+$files.delete_if(&/\A~/.method(:=~))
 $filesx = []
 def add(x)
   $filesx.concat(x)
