@@ -44,11 +44,11 @@ def add(x)
 end
 }
 
-max_len = $files.map(&:size).max + 5
+max_len = $filesx.map(&:size).max + 5
 
 $filesx.map!{|a|a.ljust(max_len)}
 
-$filesx = $filesx.each_slice($files.size / (79 / max_len)).to_a
+$filesx = $filesx.each_slice($filesx.size / (79 / max_len)).to_a
 
 $filesx.last.concat([" " * max_len] * ($filesx.first.size - $filesx.last.size))
 
