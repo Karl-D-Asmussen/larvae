@@ -24,6 +24,15 @@ add $files.grep(/\A#{HebrewChar}+\.mkdn/).sort { |a, b| hebrew(a) <=> hebrew(b) 
 
 add $files.grep(/\A[01]+\.mkdn/).sort { |a, b| a.to_i(2) <=> b.to_i(2) }
 
+Cards = { 'A' => 1, 'J' => 11, 'Q' => 12, 'K' => 13, 'S' => 0, 'H' => 13, 'D' => 26, 'C' => 39 }
+(2..10).each { |n| Cards[n.to_s] = n }
+CardChar = Regexp.new(Cards.keys.to_a.join('|'))
+def card(s)
+  s.scan(CardChar).map(&Cards.method(:[])).reduce(0, &:+)
+end
+
+add $files.grep(/\A([A2-9JQK]|10)[SHDC].mkdn/).sort { |a, b| card(a) <=> card(b) }
+
 
 #####################
 #####################
