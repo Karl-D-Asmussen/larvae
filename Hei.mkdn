@@ -92,11 +92,13 @@ regneeration was the liver.
 
 More worrying, in terms of injury, was the numerous microfractures and microlacerations I had
 incurred when fighting Velocity. Hotwiring my muscles allowed me to bypass the hard limits of muscles;
-most were limited by neurological mechanisms to begin with, which only abated with adrenaline. But
-even so, there were limits imposed by how fast nerve signals activated the muscles themselves.
+most were limited by neurological mechanisms to begin with, but
+even without those, there were limits imposed by how fast nerve signals activated the muscles fibers themselves.
 
 I could make muscle fibers contract at maximal power using singals that, if I didn't know better, traveled
-at the speed of light, and affected the whole length of the muscle fiber.
+at the speed of light, and stimulated every fiber in the muscle group at the same time. Sometiems electric injury
+would fling people a great way away; not because the current itself had that energy, but because all their muscle
+fibers would contract at once. I could do that on command, to the great detriment of my ligaments.
 
 My fiasco with Velocity had also taught me more prudence. I'd brought my lightweight costume and my utility belt,
 but substituted the polymer knuckle duster for two trench knives and two foldable batons; and I'd brought a pistol.
