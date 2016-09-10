@@ -94,7 +94,7 @@ She handed me a tablet with an article open.
 > The famed and beloved songtress Canary aka. Paige McAbee was found guilty
 > of attempted murder earlier today.
 
-I skimmed the body text, then I began typing in a search query. "What about her?"
+I skimmed the text, then I began typing in a search query. "What about her?"
 
 "She's essentially innocent; the prosecution has been working the Master paranoia angle.
 Judge sentenced her to life in the Birdcage."
@@ -108,4 +108,4 @@ is Tuesday."
 
 "Which means I get to tag Lung for a powerboost and save Paige McAbee from her fate," I said.
 "There's even time to plan. Us and the Travelers should be sufficient. I'll begin working on
-our new armors."
+our new armor."
