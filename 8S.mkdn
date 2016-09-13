@@ -16,14 +16,14 @@ This in turn gave it time to reach my heart, where it jumped from the right atri
 across arterial membranes into my aorta, dashing my hopes of intercepting it before it purposefully
 made a trip to my brain.
 
-This wasn't a psychotropic, it was a nanomachine weapon. Slippery; tiny. It reached my brain stem
+This wasn't a psychotropic, it was a nano machine weapon. Slippery; tiny. It reached my brain stem
 before I excised every single molecule of it with my power.
 
 In the process, I had staggered back and up against a wall. I looked at my hand, and muttered:
 "Damn." Both to convince Newt his power was at least somewhat effective on me, but also to
 just note to myself that I had just been handed a holy grail.
 
-Taggin Panacea had removed my primary limitation: the need for blood contact.
+Tagging Panacea had removed my primary limitation: the need for blood contact.
 
 "Potent stuff," I said.
 
@@ -39,11 +39,11 @@ classification once the PRT connected the dots.
 
 "Para Bellum," Faultline said and rose from her desk. She was in costume; favoring a play on the
 theme "riot-gear" like myself. The only obvious detriment was that she wasn't wearing a full helmet,
-and had an easily-grabbable ponytail. Her mask was some sort of dark, featureless plate --- probably with
-Tinkertech transparancy.
+and had an easily-grappable ponytail. Her mask was some sort of dark, featureless plate --- probably with
+Tinkertech transparency.
 
 Her offices was plainly furnished, and from the quality of her computer hardware, most of her work
-was done electornically.
+was done electronically.
 
 "Faultline," I replied and took off my helmet and sat in the appointed chair.
 "I approve of your taste in costumes."
@@ -76,7 +76,7 @@ I interrupted.
 get us all captured or killed. As far as I can tell, you're one of the best; I'd love to have you
 as a consultant."
 
-"I'll think it over," Faultine said.
+"I'll think it over," Faultline said.
 
 I nodded. "That's all I can ask." We shook hands --- she was wearing gloves.
 
@@ -92,7 +92,7 @@ citizens we are. Better make sure it's a good fake and high-quality product."
 
 Spitfire was outside the door to Faultline's office, apparently waiting for me.
 
-Her costume was quite ingenius --- her mask was made to look like a gas mask, but
+Her costume was quite ingenious --- her mask was made to look like a gas mask, but
 was actually more akin to the nozzle of a flamethrower. Her suit was fire-retardant
 rubber.
 
@@ -120,3 +120,5 @@ She eyed me. "No shit?"
 "Your entire team is within earshot, and you can always douse me in napalm if I try to pull a fast one." 
 
 She looked from my hand to me, then back. "I'm good, thanks."
+
+No dice on that gambit.
