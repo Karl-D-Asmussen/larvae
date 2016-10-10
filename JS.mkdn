@@ -35,6 +35,8 @@ She picked up Bullet and started ascending the rungs of the ladder up to the man
 ----
 
 Working with dead flesh was essentially the same as living flesh --- my power seemed to make no distinction.
+Of course, there wasn't the chemical infrastructure to rely on. Reserves depleted quicker, toxins built
+up inadvedently.
 
 Going from dead cells to live cells proved to be significantly more difficult than I had anticipated.
 After almost an hour of tinkering, I finally made a stable blastocyte and started feeding it.
