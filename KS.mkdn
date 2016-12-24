@@ -1,35 +1,4 @@
-We worked out a number of experiments that I would need to try in order to
-clarify what aspects of my powers had gotten easier from what cape, and managed to get
-solid quantitative confirmation on how my powers escalated generally from each contact:
-roughly linearly.
-
-Interfacing with Rachel had made it easier to deal with dead organic matter, specifically
-converting available resources into live cells.
-From Lisa I had gotten a much better grip on converting my snapshots of people into actionable
-psychological data.
-
-Coil and Dinah's powers both had done something to the way I could estimate and simulate
-actual changes, while Leet had given me a greater established catalog of syntheses for 
-my power. Replicating the strange bio-polymers of Night's monster form would be within reach
-any day now.
-
-As for the Travelers and Newter; it took me explaining how my power felt in detail, before
-Tattletale caught on: the nanoscopic tools my power wielded had a fair number of simple manipulations.
-Moving, mixing, cutting, mending, heating, cooling; basic physics. And it was at this point that
-she had prompted me to explored the limits of these.
-
-I'd early on established what one nano-hand could do, and never re-examined that fact. Now,
-they had a much greater range --- applied force, heat energy, cutting power; even teleportation
-and providing emergency structure. I could literally flash-boil or -freeze my skin, move nutrients
-and even entire cells with speed and ease. There was also a mode of operation wherein they would
-deflect radiation, which I took to be evidence of Brian's power.
-
-It was a very productive breakfast. Which brought us to the first purpose of this meeting.
-
-----
-
-"You have a hero complex," Lisa said, still not properly dressed.
-"No, scratch that --- you have a martyr complex."
+"You have a hero complex," Lisa said. "No, scratch that --- you have a martyr complex."
 
 I pursed my lips. Complexes were subtler things than mere neurochemical imbalances; to find
 them on my own would require auditing my thought processes in general --- an arduous endeavor.
@@ -82,7 +51,8 @@ Had I not been able to make it come together, that would have been the end of hi
 
 "Taylor, I'm not saying any of this to hurt you---"
 
-"--- I know," I said. "You're still a lousy therapist."
+"--- I know," I said. "You're still a lousy therapist." One of the many, many people I had now
+touched, was a therapist.
 
 "And you're a lousy client," she retorted. "Anyway. You lack subtlety, on a fundamental level.
 You are willing to forego all social fiction, in a way that's not really condusive to anything
@@ -107,12 +77,47 @@ and enigmatic is a better play than 'fanatic.' Coil did that."
 
 I pursed my lips into a crooked smile. "So... I need a PR department?"
 
-"How many people have you tagged with your power? Ordinary humans, I mean."
+"How many people have you tagged with your power?"
 
-"Hundreds."
+"Hundreds --- Panacea removed the blood contact limitation."
 
 Lisa folded her arms. "Then you're your own damn PR department. Taylor, you're smarter than
 me."
 
 But somewhere, somehow, I didn't want to play politics and fit in boxes. I wanted to... Well,
 there was the motivated cognition.
+
+"I need to cultivate an image of... Perhaps being a rebel. A dark knight. Working for the common
+good, with evil means --- going where the heroes can't."
+
+"That's not going to buy you any favors from the villains --- hell, establishing a gang presence
+is going to be difficult."
+
+I shook my head. "How many disenfranchised middle-class workers do you think there are out there?"
+
+"You wanna start a socialist revolution---"
+
+"Why not? Ever since superpowers became a reality, the whole red-scare thing has been supplanted by
+cape politics."
+
+Lisa giggled. "And if they call you a communist?"
+
+I struck a pose. "I'm a patriot; a vanguard of the American Dream. I'm the daughter of a unionist! I'm
+from a modest home; I rose to my position with a sub-par power by being wily, working hard, and never
+giving up!"
+
+"The mirror image of Brockton Bay's own patriotic hero," Lisa said. "She's an immigrant who loves
+America, you know."
+
+"We're both immigrants," I corrected. "My lineage is european --- somewhere."
+
+"French," Lisa said. "But enough about image and keeping us safe; we need to give you a full psych evaluation.
+Fortunately, I've pulled some as-of-yet unreleased Master/Stranger protocol tests from the PRT internal
+systems. And also we'll put you through a battery of personality tests."
+
+"We also need to check wether my skill-granting ability is safe---" I began.
+
+"Already did; the personality changes are negligible, and it doesn't implant Master suggestions of any
+kind detectable to this PRT protocol or my own powers."
+
+"Let's get started," I said, and Lisa went to fetch a pile of papers and a laptop.
