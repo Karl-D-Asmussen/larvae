@@ -1,0 +1,3 @@
+#! /bin/zsh
+
+pandoc -S -f markdown -t html5 < "$1" | xclip -i -selection clipboard
